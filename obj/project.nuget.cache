@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6FPQF430+LufRmGatzSIzZmyGe/bTTJMy612dREiseA/6cH3uIshRsk38fPyVsW1k5E7m6ya5vda+MujmyJjQ==",
+  "dgSpecHash": "qkbuDGS1pgqtydsnQOvKTVzwWTu0YSD0UmYNebqNi4WpdnPJbUuwbZNtUjY5ONf+GeJbaHhLBpCmVHwLic9jXA==",
   "success": true,
-  "projectFilePath": "/home/chris/Projects/Visual Studio/Coronavirus todo/Visual Studio.csproj",
+  "projectFilePath": "/home/chris/Projects/Coronavirus_to_do_list/Visual Studio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

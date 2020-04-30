@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/chris/Projects/Visual Studio/Coronavirus todo/Visual Studio.csproj": {}
+    "/home/chris/Projects/Coronavirus_to_do_list/Visual Studio.csproj": {}
   },
   "projects": {
-    "/home/chris/Projects/Visual Studio/Coronavirus todo/Visual Studio.csproj": {
+    "/home/chris/Projects/Coronavirus_to_do_list/Visual Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chris/Projects/Visual Studio/Coronavirus todo/Visual Studio.csproj",
+        "projectUniqueName": "/home/chris/Projects/Coronavirus_to_do_list/Visual Studio.csproj",
         "projectName": "Visual Studio",
-        "projectPath": "/home/chris/Projects/Visual Studio/Coronavirus todo/Visual Studio.csproj",
+        "projectPath": "/home/chris/Projects/Coronavirus_to_do_list/Visual Studio.csproj",
         "packagesPath": "/home/chris/.nuget/packages/",
-        "outputPath": "/home/chris/Projects/Visual Studio/Coronavirus todo/obj/",
+        "outputPath": "/home/chris/Projects/Coronavirus_to_do_list/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/chris/.nuget/NuGet/NuGet.Config"
