@@ -1,0 +1,26 @@
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio.deps.json
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio.runtimeconfig.json
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio.runtimeconfig.dev.json
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio.dll
+/home/chris/Projects/Visual Studio/bin/Debug/netcoreapp3.1/Visual Studio.pdb
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.csprojAssemblyReference.cache
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.AssemblyInfoInputs.cache
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.AssemblyInfo.cs
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.dll
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.pdb
+/home/chris/Projects/Visual Studio/obj/Debug/netcoreapp3.1/Visual Studio.genruntimeconfig.cache
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio.deps.json
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio.runtimeconfig.json
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio.runtimeconfig.dev.json
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio.dll
+/home/chris/Projects/Visual Studio/Coronavirus todo/bin/Debug/netcoreapp3.1/Visual Studio.pdb
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.csprojAssemblyReference.cache
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.AssemblyInfoInputs.cache
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.AssemblyInfo.cs
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.dll
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.pdb
+/home/chris/Projects/Visual Studio/Coronavirus todo/obj/Debug/netcoreapp3.1/Visual Studio.genruntimeconfig.cache
